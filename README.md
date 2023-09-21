@@ -27,11 +27,9 @@ VSCode ve Komut Satırını Kullanma:
 6. Sonra `npm run test` yazın ve çalıştırın
 7. Projenizi tamamladıktan sonra `push` yaparak githuba aktarın
 
-
 ### Görev 2: Yapılması gerekenler
 
 `index.js` dosyasını bulun ve verilen görevleri tamamlayın.
-
 
 ### Test Etme & Debug Yapma
 
@@ -45,8 +43,8 @@ Bir terminal ekranında testleri çalıştırırken bir diğerinde ise debug yap
 
 `index.js` dosyasında yer alan bonus görevleri yapabilirsiniz.
 
-
 ## Faydalı Kaynaklar
 
 [What the Beep is `this` in JavaScript?](https://dev.to/brityhemming/what-the-beep-is-this-in-javascript-483o)
 
+asasasasasas
