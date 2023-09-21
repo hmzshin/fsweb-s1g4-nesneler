@@ -46,5 +46,3 @@ Bir terminal ekranında testleri çalıştırırken bir diğerinde ise debug yap
 ## Faydalı Kaynaklar
 
 [What the Beep is `this` in JavaScript?](https://dev.to/brityhemming/what-the-beep-is-this-in-javascript-483o)
-
-asasasasasas
